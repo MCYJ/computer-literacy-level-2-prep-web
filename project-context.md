@@ -40,3 +40,4 @@
 ## Work log
 
 - 2026-09-18: Created the bilingual marketing/study site for released KOR-0008, using a distinct spreadsheet worksheet design and verified Level 2 facts. Production deployment evidence will be appended after GitHub Pages publication.
+- 2026-09-18: GitHub Pages deployment run `35355743134` passed. Production QA returned HTTP 200 for all 34 sitemap routes and sampled assets, HTTP 404 for a missing route, confirmed the deployed `word-break: keep-all`, exact Play package link, disabled App Store label and absence of any App Store URL.
